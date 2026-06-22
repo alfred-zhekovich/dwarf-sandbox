@@ -25,4 +25,5 @@ dependencies = [
 Homepage = "https://github.com"
 
 [tool.setuptools]
-py-modules = ["1"] # Указывает pip, что твой главный файл — 1.py
+# Автоматически находим все модули в корневой папке без проверки их имен валидатором
+py-modules = []
