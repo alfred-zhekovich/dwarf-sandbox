@@ -1,0 +1,6 @@
+name = СУПЕР ВОДА!\nДобавляет вязкую физику и сильное замедление\nА еще делает пиплов синими!
+gravity_mult = 0.2
+"damping = 0.99
+"bone_color = #00ffc
+"joint_color = #ff0055
+"bone_width = 4
